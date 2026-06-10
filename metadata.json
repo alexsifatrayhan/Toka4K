@@ -1,0 +1,6 @@
+{
+  "name": "Toka4K",
+  "description": "Premium advanced video player with custom real-time GLSL upscaling, FSR, and Anime4K shader configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
